@@ -3,3 +3,6 @@ hanhongyong/ms365-e5-renew-x
 dreamacro/clash
 odoo
 idootop/mi-gpt
+mariadb:10.5
+redis:alpine
+pterodactylchina/panel:latest
