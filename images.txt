@@ -5,4 +5,4 @@ odoo
 idootop/mi-gpt
 mariadb:10.5
 redis:alpine
-pterodactylchina/panel:latest
+n8nio/n8n
