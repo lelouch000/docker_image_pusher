@@ -7,3 +7,4 @@ mariadb:10.5
 redis:alpine
 n8nio/n8n
 ollama/ollama
+openclaw/openclaw
