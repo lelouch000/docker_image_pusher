@@ -8,3 +8,4 @@ redis:alpine
 n8nio/n8n
 ollama/ollama
 jiulingyun803/openclaw-cn
+nousresearch/hermes-agent
